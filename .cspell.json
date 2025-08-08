@@ -7,6 +7,8 @@
   // words - list of words to be always considered correct
   "words": ["Pseudonymization",
 	  	"Fairmarkit",
+		"clickhouse",
+		"procureai",
 	  	"prefiltered",
 	  	"preconfigured",
 	  	"Coupa",
