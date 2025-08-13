@@ -4,6 +4,13 @@
   // This is useful for offensive words and common spelling errors.
   // For example "hte" should be "the"
   "flagWords": ["hte"],
+    "enabledFileTypes": [
+    "txt",           // adding * enables checks for all filetypes
+    "!json",       // Disable checking for some filetypes
+    "!svg",
+    "markdown",     // Check MD files
+	"!png"
+  ],
   // Version of the setting file.  Always 0.2
   "version": "0.2",
   // language - current active spelling language
