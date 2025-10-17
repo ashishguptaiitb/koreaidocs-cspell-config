@@ -993,3 +993,8 @@ bestwordindex
 botname
 aiassist
 welcomedialog
+noinput
+nomatch
+contvarvalue
+testaudio
+Globalkey
