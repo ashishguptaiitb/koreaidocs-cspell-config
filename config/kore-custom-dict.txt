@@ -975,3 +975,11 @@ selfservice
 newuser
 islocked
 leafterm
+successintents
+successtasks
+successtask
+failedintents
+failintent
+failtask
+unhandledutterance
+tasktype
