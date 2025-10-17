@@ -874,6 +874,16 @@ Botbuilder
 VIVR
 multibot
 urlencoder
+geolocation
+audiohook
+AISDK
+savg
+audiosocket
+botid
+customdata
+agentai
+Visualforce
+noncti
 
 
 
