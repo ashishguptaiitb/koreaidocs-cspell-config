@@ -943,3 +943,13 @@ Kolkata
 skypeonprem
 wechat
 wfacebook
+deepgram
+Airtel
+Telemedia
+SIPURI
+Bengaluru
+livechat
+customerinfo
+userleveltags
+sessionleveltags
+customerinfo
