@@ -983,3 +983,8 @@ failintent
 failtask
 unhandledutterance
 tasktype
+lemmatizer
+mvalue
+wordindex
+inputwords
+labelword
