@@ -884,8 +884,12 @@ customdata
 agentai
 Visualforce
 noncti
-
-
-
-
-
+customtable
+treemap
+tagname
+isdeveloper
+sessionid
+eventtype
+streamid
+xtraceid
+conversationid
