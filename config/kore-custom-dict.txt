@@ -925,3 +925,12 @@ lmodified
 messagestore
 providername
 allusers
+audiocodes
+genesys
+twiliosms
+genericsms
+taskid
+workinghours
+workstart
+workend
+kgvsdialog
