@@ -953,3 +953,12 @@ customerinfo
 userleveltags
 sessionleveltags
 customerinfo
+Intentuser
+skillgroup
+accounttype
+johnsmith
+mycase
+mytask
+worknumber
+failtask
+ngram
