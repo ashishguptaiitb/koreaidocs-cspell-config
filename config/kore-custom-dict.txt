@@ -905,3 +905,12 @@ ivrvoice
 Botexport
 botkit
 websdk
+BOTLANGUAGES
+resourceid
+tagname
+tagvalue
+tagtype
+skypeforbusiness
+msteams
+twitter
+slack
