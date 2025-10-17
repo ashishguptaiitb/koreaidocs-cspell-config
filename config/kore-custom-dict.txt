@@ -988,3 +988,8 @@ mvalue
 wordindex
 inputwords
 labelword
+foundexact
+bestwordindex
+botname
+aiassist
+welcomedialog
