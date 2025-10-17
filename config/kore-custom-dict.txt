@@ -914,3 +914,9 @@ skypeforbusiness
 msteams
 twitter
 slack
+ringcentral
+alexa
+twiliovoice
+smartassist
+liveperson
+googleactions
