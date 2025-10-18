@@ -1046,3 +1046,9 @@ timespent
 dialout
 dialin
 notifyurl
+qualityai
+KHTML
+livechatapi
+miaw
+livemode
+finetuning
