@@ -1035,3 +1035,7 @@ VXML
 lemmatization
 multilang
 subentity
+RULENAME
+Webservice
+WDSL
+rrule
