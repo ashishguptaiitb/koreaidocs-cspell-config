@@ -11,7 +11,9 @@
   "version": "0.2",
   "language": "en",
 
-  "import": ["./config/kore-custom-rejected-words.json"],
+  // "import": ["./config/kore-custom-rejected-words.json"],
+  // Temporarily ignore the rejected words.
+  
   "dictionaryDefinitions": [
     {
       "name": "allowedWords",
