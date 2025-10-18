@@ -1027,4 +1027,11 @@ accountname
 accounttype
 Checkings
 Subintent
-
+Subintents
+accdata
+postbackpayload
+MRCP
+VXML
+lemmatization
+multilang
+subentity
