@@ -988,3 +988,11 @@ lync
 subdialog
 userinput
 MRCP
+VXML
+connnector
+redirecturl
+netcore
+Karix
+Gupshup
+WABA
+wechat
