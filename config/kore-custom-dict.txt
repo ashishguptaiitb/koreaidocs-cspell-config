@@ -1020,3 +1020,11 @@ issuetype
 Gitrepository
 homelocation
 destlocation
+protip
+ITSM
+cardtype
+accountname
+accounttype
+Checkings
+Subintent
+
