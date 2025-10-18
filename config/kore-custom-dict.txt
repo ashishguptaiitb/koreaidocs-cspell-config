@@ -241,6 +241,7 @@ DatetimeTZDtype
 Deanonymize
 dedent
 deepgram
+deepgram's
 defaultdict
 deg2rad
 delete
@@ -933,3 +934,9 @@ zip_longest
 Zomato
 Zoominfo
 Zulip
+contentvar
+contvarvalue
+Agenth
+rerank
+reranking
+accplatform
