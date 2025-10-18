@@ -996,3 +996,11 @@ Karix
 Gupshup
 WABA
 wechat
+JOHE
+pollid
+Multichoice
+usercontext
+unblu
+Syniverse
+sinch
+glip
