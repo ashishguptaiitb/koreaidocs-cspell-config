@@ -1039,3 +1039,10 @@ RULENAME
 Webservice
 WDSL
 rrule
+lname
+GPRS
+Dropoff
+timespent
+dialout
+dialin
+notifyurl
