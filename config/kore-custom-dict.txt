@@ -948,3 +948,10 @@ TTFT
 responsepath
 selectkey
 customvariable
+azuredynamic
+Designtime
+custompayload
+customint
+coreference
+genaiprompt
+nodelevel
