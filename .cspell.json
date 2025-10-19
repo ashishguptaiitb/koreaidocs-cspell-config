@@ -20,7 +20,7 @@
       "path": "./config/kore-custom-dict.txt",
       "addWords": true
     }
-    // Do NOT define a "flaggedWords" dictionary; it would whitelist them.
+    // Do NOT define a "flaggedWords" dictionary below; it would allow those words.
   ],
 
   "dictionaries": [
