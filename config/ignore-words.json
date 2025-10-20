@@ -188,5 +188,27 @@
 	"format_float_scientific",
 	"formatstring",
 	"foundexact",
+	"from_dummies",
+	"fromfunction",
+	"full_like",
+	"fullmatch",
+	"functionnodename",
+	"GAAP",
+	"gammavariate",
+	"gcd",
+	"gdrive",
+	"genericsms",
+	"get_dummies",
+	"get_option",
+	"get_printoptions",
+	"getstate",
+	"Gitrepository",
+	"glip",
+	"Globalkey",
+	"gmtime",
+	"googleactions",
+
+
+
 ]
 }
