@@ -157,6 +157,19 @@
 	"failintent",
 	"failtask",
 	"featurelevel",
-
+	"fill_diagonal",
+	"filterfalse",
+	"find_common_type",
+	"findall",
+	"finditer",
+	"finetuning",
+	"finfo",
+	"Firecrawl",
+	"firstname",
+	"firstweekday",
+	"flatiter",
+	"flatnonzero",
+	"fliplr",
+	"flipud",
 ]
 }
