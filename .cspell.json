@@ -11,18 +11,22 @@
   "version": "0.2",
   "language": "en",
 
-  // "import": ["./config/kore-custom-rejected-words.json"],
-  // Temporarily ignore the rejected words.
-  
+	//List of ignored words. Ignored means that these words aren't part of a dictionary and aren't considered errors--just neutral words.
+
+	"import": [
+		"./config/ignore-words.json",
+	
+	//	"./config/kore-custom-rejected-words.json"
+	
+	],
   "dictionaryDefinitions": [
     {
       "name": "allowedWords",
       "path": "./config/kore-custom-dict.txt",
       "addWords": true
     }
-    // Do NOT define a "flaggedWords" dictionary below; it would allow those words.
+    // Do NOT define a "flaggedWords" dictionary below. Otherwise, Cspell will allow those words instead of flagging.
   ],
-
   "dictionaries": [
     "allowedWords"
   ]
