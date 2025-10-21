@@ -173,6 +173,7 @@ Kore
 kron
 lcm
 leapdays
+lemmatize
 lemmatization
 lemmatizer
 less
