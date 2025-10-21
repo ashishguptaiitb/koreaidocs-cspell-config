@@ -23,7 +23,7 @@
     {
       "name": "allowedWords",
       "path": "./config/kore-custom-dict.txt",
-      "addWords": true
+      "addWords": false
     }
     // Do NOT define a "flaggedWords" dictionary below. Otherwise, Cspell will allow those words instead of flagging.
   ],
