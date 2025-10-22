@@ -90,6 +90,7 @@ compress
 concatenate
 conjugate
 connnector
+contactcenter
 Contentful
 copy
 correlate
@@ -109,6 +110,7 @@ deepseek
 deque
 dialin
 dialout
+dialoggpt
 Dialpad
 Discordbot
 Docusign
@@ -461,3 +463,15 @@ zeros
 Zomato
 Zoominfo
 Zulip
+Freshservice
+itassist
+contactcenterai
+autohide
+DotCMS
+HelpScout
+LumApps
+Miro
+OneDrive
+Jenkins
+On-Prem
+Egnyte
