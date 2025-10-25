@@ -1,4 +1,5 @@
 { "flagWords": ["teh",
+"please",
 "gale",
 "hte",
 "blacklist",
@@ -35,8 +36,15 @@
 "Utterences",
 "Referer",
 "finetune",
-] 
-
-
-
+"at present",
+"for now",
+"as of now",
+"yet",
+"at the moment",
+"in future",
+"recently added",
+"just added",
+"just removed",
+"just enhanced",
+]
 }
