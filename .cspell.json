@@ -1,11 +1,12 @@
 // cSpell Settings
 {
   "enabledFileTypes": [
-    "!txt",
-    "!json",
+    "txt",
+    "json",
     "!svg",
     "markdown",
-    "!png"
+    "!png",
+    "yml"
   ],
 
   "version": "0.2",
@@ -16,7 +17,7 @@
 	"import": [
 		"./config/ignore-words.json",
 	
-	//	"./config/kore-custom-rejected-words.json"
+		"./config/kore-custom-rejected-words.json"
 	
 	],
   "dictionaryDefinitions": [
