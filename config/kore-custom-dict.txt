@@ -2,9 +2,14 @@ CCP
 AWS
 silero
 FLAC
+Acculynx
+Apaleo
+Bugbug
 RTCP
 audiocodes
 abs
+codeinterpreter
+
 absolute
 Accu
 accumulate
