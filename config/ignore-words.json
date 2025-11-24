@@ -1,8 +1,17 @@
 {
   "ignoreWords": [
     "abstractive",
+	"attrname",
+	"MAXEXTENTS",
+	"MINUS",
+	"MLSLABEL",
+	"customertable",
+	"Cust",
+	"NOAUDIT",
+	"NOCOMPRESS",
 	"accountid",
 	"accdata",
+	"NOWAIT",
 	"accountname",
 	"accounttype",
 	"accplatform",
