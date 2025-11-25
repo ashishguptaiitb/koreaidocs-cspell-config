@@ -5,6 +5,7 @@ Odia
 Kinyarwanda
 Nyanja
 Shona
+mypurecloud
 AWS
 Sinhala
 Chichewa
