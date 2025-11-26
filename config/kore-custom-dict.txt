@@ -1,3 +1,4 @@
+inferencing
 Bangla
 Español
 CCP
@@ -5,7 +6,18 @@ Odia
 Kinyarwanda
 Nyanja
 Shona
+chatbots
+chatbot
+Junglescout
+Klaviyo
+Kommo
+BILLCOM
+Mixedbread
+mxbai
 mypurecloud
+Kakao
+chatbots
+BYOM
 AWS
 Sinhala
 Chichewa
