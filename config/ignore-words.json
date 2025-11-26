@@ -1,12 +1,15 @@
 {
   "ignoreWords": [
     "abstractive",
+	"voiceutils",
 	"attrname",
 	"MAXEXTENTS",
 	"MINUS",
 	"Centerwide",
 	"passthru",
 	"XVCJ",
+	"PEFT",
+	"adamw",
 	"IBEF",
 	"atesta",
 	"AYUSH",
