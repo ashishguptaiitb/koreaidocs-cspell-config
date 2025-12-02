@@ -16,6 +16,7 @@ Mixedbread
 mxbai
 mypurecloud
 Kakao
+agenticai
 chatbots
 BYOM
 AWS
