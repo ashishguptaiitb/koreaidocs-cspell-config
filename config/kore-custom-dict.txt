@@ -9,6 +9,7 @@ HITL
 Peopledatalabs
 Pipedrive
 Retellai
+Rocketlane
 inferencing
 Bangla
 Español
@@ -25,6 +26,7 @@ Kommo
 BILLCOM
 Mixedbread
 mxbai
+misroute
 mypurecloud
 Kakao
 agenticai
