@@ -1,5 +1,10 @@
 {
   "ignoreWords": [
+	"Listennotes",
+	"Metaads",
+	"Onepage",
+	"Similarlink",
+	"SDCB",
     "abstractive",
 	"voiceutils",
 	"attrname",
