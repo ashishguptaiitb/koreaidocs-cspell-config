@@ -28,6 +28,9 @@ Mixedbread
 mxbai
 misroute
 mypurecloud
+Serpapi
+Yousearch
+Zenrows
 Kakao
 agenticai
 chatbots
