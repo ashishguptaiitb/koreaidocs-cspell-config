@@ -1,3 +1,14 @@
+BLEU
+ROUGE
+undeployed
+notux
+neox
+dall
+Docling
+HITL
+Peopledatalabs
+Pipedrive
+Retellai
 inferencing
 Bangla
 Español
