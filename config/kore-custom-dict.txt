@@ -27,6 +27,17 @@ logits
 Scikit
 Gatwick
 Vectorizer
+lemmatized
+Softmax
+unsubscription
+unsubscriptions
+lemmatizer
+HANA
+Siri
+UDAP
+Liveperson
+Concentrix
+Vayusphere
 Heathrow
 rescored
 LLP
