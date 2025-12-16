@@ -22,6 +22,11 @@ KAEN
 Hinglish
 postprocessors
 Voximal
+XPOST
+logits
+Scikit
+Gatwick
+Vectorizer
 Heathrow
 rescored
 LLP
