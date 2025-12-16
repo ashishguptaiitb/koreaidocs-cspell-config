@@ -15,6 +15,13 @@ Deutsch
 liveagent
 Laothian
 rescores
+Langdetect
+autopay
+PSTN
+KAEN
+Hinglish
+postprocessors
+Voximal
 Heathrow
 rescored
 LLP
