@@ -2,6 +2,8 @@
   "ignoreWords": [
 	"Listennotes",
 	"Metaads",
+	"jwttoken",
+	"javax",
 	"Onepage",
 	"SFPWP",
 	"channelback",
