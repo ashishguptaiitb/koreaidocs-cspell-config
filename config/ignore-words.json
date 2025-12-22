@@ -2,8 +2,11 @@
   "ignoreWords": [
 	"Listennotes",
 	"Metaads",
+	"testprompt",
 	"jwttoken",
 	"javax",
+	"chnl",
+	"withallchild",
 	"Onepage",
 	"SFPWP",
 	"channelback",
