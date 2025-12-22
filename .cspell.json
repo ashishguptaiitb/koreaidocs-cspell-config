@@ -11,6 +11,10 @@
 
   "version": "0.2",
   "language": "en",
+  "ignoreRegExpList": [
+    "/\\b(?=[^\\s]{9,})[^\\s]*x{3,}[^\\s]*\\b/g",
+	"/`[^`]+`/g"
+  ],
 
 	//List of ignored words. Ignored means that these words aren't part of a dictionary and aren't considered errors--just neutral words.
 
