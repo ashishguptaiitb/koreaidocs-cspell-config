@@ -7,6 +7,8 @@ ROUGE
 undeployed
 notux
 neox
+subcriteria
+subcriterion
 Pheonix
 SPNEGO
 autocorrected
