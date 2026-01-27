@@ -2,6 +2,7 @@
   "ignoreWords": [
 	"Listennotes",
 	"Metaads",
+	"RRGGBB",
 	"profcolour",
 	"testprompt",
 	"jwttoken",
