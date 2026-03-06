@@ -1,3 +1,6 @@
+venv
+dbquery
+hyperparameters
 HMAC
 RSA-OAEP
 Ciphertext
