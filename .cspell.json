@@ -6,7 +6,8 @@
     "!svg",
     "markdown",
     "!png",
-    "yml"
+    "yml",
+	"mdx"
   ],
 
   "version": "0.2",
