@@ -1,4 +1,11 @@
 Invision
+evals
+koreailogo
+gale
+llms
+logrocket
+koreaidocs
+metatags
 venv
 dbquery
 hyperparameters
