@@ -1,8 +1,14 @@
 {
   "ignoreWords": [
 	"Listennotes",
+	"artemisurl",
+	"ablenc",
 	"ehyoae",
 	"Metaads",
+	"readwrite",
+	"ECONNREFUSED",
+	"ENOTFOUND",
+	"ETIMEDOUT",
 	"RRGGBB",
 	"profcolour",
 	"groundness",
